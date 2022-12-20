@@ -1,0 +1,2 @@
+java run.StegRunner.java hide filename img.bmp password
+java run.DtegRunner.java extract img.bmp password
